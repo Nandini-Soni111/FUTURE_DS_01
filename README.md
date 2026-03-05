@@ -1,1 +1,3 @@
+# FUTURE_DS_02
+CUSTOMER CHURN AND RETENSION ANALYSIS
 In this real-world internship task, we worked with business sales data to perform practical analysis similar to what data analysts do in companies and startups. The objective was not just to create charts, but to answer key business questions such as identifying top revenue-generating products, analyzing sales trends over time, and finding the most profitable categories or regions to help drive growth. We cleaned and organized raw Excel/CSV data, analyzed KPIs, identified trends, and built a professional, client-ready dashboard using Google Sheets and Google Docs. Through this task, we developed skills in data cleaning, business-focused analysis, trend evaluation, insight generation, and effective data storytelling.
